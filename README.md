@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GustavoBarros360
 - 👀 I’m interested in improve my programming skills. I wish to become a full-stack developer in the future.
 - 🌱 I’m currently learning web development (HTML5 / CSS3 / JavaScript)
-- I have basic knowlegde in python, C, C++ and VBA.
+- I have basic / intermediate knowlegde in python, C, C++ and VBA.
 - 📫 How to reach me: instagram - @gustavo.b.barros; facebook - Gustavo Bandeira Barros. 
 
 <!---
